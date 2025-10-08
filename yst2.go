@@ -8,7 +8,7 @@ import (
 
 	"github.com/bytedance/sonic"
 	"github.com/emmansun/gmsm/sm2"
-	"github.com/weplanx/go/help"
+	"github.com/kainonly/go/help"
 	"resty.dev/v3"
 )
 
